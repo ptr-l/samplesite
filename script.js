@@ -28,7 +28,7 @@ NT.addEventListener("click", function () {
 });
 let Trn = document.getElementById('Trn')
 Trn.addEventListener("click", function (){
-    alert("Taking the bones of the formative deckbuilder and adding a board, Hayashi created a quick playing and light routebuilding game. Purchase more and better trains, expand your deck, but wathc out for the waste cards that threaten to clog up your hand!")
+    alert("Taking the bones of the formative deckbuilder Dominion and adding a board, Hayashi created a quick playing and light routebuilding game. Purchase more and better trains, expand your deck, but wathc out for the waste cards that threaten to clog up your hand!")
 });
 let sgp = document.getElementById('SGP')
 sgp.addEventListener("click", function (){
