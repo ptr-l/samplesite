@@ -1,0 +1,26 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+table, th, td {
+    border-collapse: collapse;
+}
+table {
+    border: 3px solid black
+}
+th, td {
+    border: 1px solid black
+}
+tr:nth-child(odd) {
+    background-color: #F0EAD6;
+}
+td:nth-child(1) {
+    font-weight: bolder;
+}
+h1 {
+    margin-left: 25%;
+    font-size: 16pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
